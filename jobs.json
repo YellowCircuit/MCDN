@@ -1,0 +1,139 @@
+[
+  {
+    "id": 7,
+    "title": "Electrician",
+    "department": "Construction",
+    "location": "Dubai, UAE",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "1800",
+    "currency": "AED",
+    "description": "Join our construction team in Dubai as an Electrician. Work on electrical installations and maintenance projects with comprehensive benefits including accommodation and transportation.",
+    "responsibilities": [
+      "Carry out electrical installations as per drawings, including installation of supports and containment systems (e.g., conduits, trays, trunking, etc.)",
+      "Perform cabling works such as wiring, cable pulling, and terminations",
+      "Install electrical equipment and devices including distribution boards (DBs, SMDBS), breakers, isolators, wiring accessories, and light fixtures",
+      "Conduct testing and troubleshooting of electrical installations to ensure functionality and compliance",
+      "Read and interpret shop drawings accurately",
+      "Perform material take-offs based on drawings and project requirements"
+    ],
+    "requirements": [
+      "Technical certification in electrical work",
+      "2-5 years of experience in electrical installations",
+      "Ability to read and interpret electrical drawings",
+      "Knowledge of electrical codes and safety standards",
+      "Physical ability to work in construction environments",
+      "Willingness to relocate to Dubai"
+    ],
+    "skills": ["Electrical Installation", "Cable Management", "Circuit Testing", "Drawing Interpretation", "Safety Protocols", "Troubleshooting"],
+    "benefits": [
+      "Salary: AED 1800",
+      "Company-provided visa",
+      "Company-provided accommodation",
+      "Company-provided transportation",
+      "Food allowance: AED 150/month (if camp meals are not provided)",
+      "Medical insurance",
+      "First one-way air ticket to Dubai (Upon Visa approval) will be provided by the company"
+    ],
+    "postedDate": "2024-09-22",
+    "applicationDeadline": "2024-10-22",
+    "googleFormUrl": "https://forms.gle/8fZ2PZ2dA9BfjaTH9",
+    "companyInfo": {
+      "industry": "Construction",
+      "size": "200-500 employees",
+      "stage": "Established Company",
+      "culture": "Safety-focused, team-oriented, skilled workforce"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Plumber",
+    "department": "Construction",
+    "location": "Dubai, UAE",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "1800",
+    "currency": "AED",
+    "description": "Work as a Plumber in Dubai's construction industry. Handle domestic water and drainage system installations with full company support including visa, accommodation, and transportation.",
+    "responsibilities": [
+      "Carry out domestic water and drainage system installations as per approved drawings",
+      "Install support systems and various piping types, including PPR, HDPE, PEX, Copper, GRP, uPVC, etc., for water supply, soil, waste, condensate drain, and vent systems",
+      "Perform pipe welding, brazing, and jointing as required for different materials",
+      "Install plumbing fixtures and equipment, including sanitary ware, floor drains, water heaters, and related accessories",
+      "Ensure proper alignment, slope, and connection integrity of all installed piping systems",
+      "Adhere to local plumbing codes, safety standards, and project specifications"
+    ],
+    "requirements": [
+      "Technical certification in plumbing",
+      "2-5 years of experience in plumbing installations",
+      "Knowledge of various piping materials and installation techniques",
+      "Ability to read plumbing drawings and specifications",
+      "Understanding of local plumbing codes and safety standards",
+      "Willingness to relocate to Dubai"
+    ],
+    "skills": ["Plumbing Installation", "Pipe Welding", "Fixture Installation", "System Testing", "Drawing Interpretation", "Safety Compliance"],
+    "benefits": [
+      "Salary: AED 1800",
+      "Company-provided visa",
+      "Company-provided accommodation",
+      "Company-provided transportation",
+      "Food allowance: AED 150/month (if camp meals are not provided)",
+      "First one-way air ticket to Dubai (Upon Visa approval) will be provided by the company",
+      "Medical insurance"
+    ],
+    "postedDate": "2024-09-22",
+    "applicationDeadline": "2024-10-22",
+    "googleFormUrl": "https://forms.gle/8fZ2PZ2dA9BfjaTH9",
+    "companyInfo": {
+      "industry": "Construction",
+      "size": "200-500 employees",
+      "stage": "Established Company",
+      "culture": "Safety-focused, team-oriented, skilled workforce"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Helper",
+    "department": "Construction",
+    "location": "Dubai, UAE",
+    "type": "Full-time",
+    "experience": "0-2 years",
+    "salary": "1200",
+    "currency": "AED",
+    "description": "Start your career in Dubai's construction industry as a Helper. Assist skilled workers and gain valuable experience with comprehensive company benefits including accommodation and transportation.",
+    "responsibilities": [
+      "Assist skilled workers such as electricians and plumbers",
+      "Load and unload materials and tools",
+      "Perform basic tasks at construction or maintenance sites",
+      "Maintain cleanliness and safety of the work area",
+      "Follow instructions from supervisors and skilled tradesmen"
+    ],
+    "requirements": [
+      "Physical fitness and ability to perform manual labor",
+      "Willingness to learn and follow instructions",
+      "Basic understanding of construction safety practices",
+      "Ability to work in a team environment",
+      "Willingness to relocate to Dubai",
+      "No specific experience required - entry level position"
+    ],
+    "skills": ["Manual Labor", "Tool Handling", "Safety Awareness", "Team Collaboration", "Material Handling", "Site Maintenance"],
+    "benefits": [
+      "Salary: AED 1200",
+      "Company-provided visa",
+      "Company-provided accommodation",
+      "Company-provided transportation",
+      "Food allowance: AED 150/month (if camp meals are not provided)",
+      "Medical insurance",
+      "First one-way air ticket to Dubai (Upon Visa approval) will be provided by the company"
+    ],
+    "postedDate": "2024-09-22",
+    "applicationDeadline": "2024-10-22",
+    "googleFormUrl": "https://forms.gle/8fZ2PZ2dA9BfjaTH9",
+    "companyInfo": {
+      "industry": "Construction",
+      "size": "200-500 employees",
+      "stage": "Established Company",
+      "culture": "Safety-focused, team-oriented, skilled workforce"
+    }
+  }
+]
